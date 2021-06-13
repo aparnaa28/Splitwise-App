@@ -1,3 +1,3 @@
 Splitwise App 
 
-Access : https://mridulguptaa.github.io/Splitwise-App/
+Access :  https://aparnaa28.github.io/Splitwise-App/
